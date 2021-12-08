@@ -2,8 +2,9 @@
 
 ###This program is for fun###
 
-$$Step to run this script 
+$$ Step to run this scripts $$
 
+Example:
 >Perl Script name as imagine_no.pl
 
 >Download the script 
